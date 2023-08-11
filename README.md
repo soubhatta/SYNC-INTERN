@@ -1,5 +1,5 @@
 # SYNC INTERN'S INTERNSHIP PROGRAM
-Project on Machine Learning Internship and Web Development Internship
+Project on Machine Learning Internship 
 
 Task 1 - Portfolio Website : A portfolio website made up of HTML,CSS telling about you and your accomplishments.
 
