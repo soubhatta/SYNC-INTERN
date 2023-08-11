@@ -1,8 +1,10 @@
 # SYNC INTERN'S INTERNSHIP PROGRAM
 Project on Machine Learning Internship 
 
-Task 1 - Portfolio Website : A portfolio website made up of HTML,CSS telling about you and your accomplishments.
+Task 1 - Create a ChatBot.
 
-Task 2 - Temperature Converter : Create a simple website using HTML,CSS,JAVASCRIPT to convert temperature form Celsius to Fahrenheit and etc.
+Task 2 - Real Time Face Mask Detection.
 
-Task 3 - Homepage of Netflix : A simple website having similar homepage that of Netflix using using HTML and CSS.
+Task 3 - Boston House Price Prediction.
+
+Task 4 - Sign Language Classification.
