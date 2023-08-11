@@ -1,5 +1,6 @@
 # SYNC INTERN'S INTERNSHIP PROGRAM
 Project on Machine Learning Internship and Web Development Internship
+
 Task 1 - Portfolio Website : A portfolio website made up of HTML,CSS telling about you and your accomplishments.
 
 Task 2 - Temperature Converter : Create a simple website using HTML,CSS,JAVASCRIPT to convert temperature form Celsius to Fahrenheit and etc.
