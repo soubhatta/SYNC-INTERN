@@ -1,5 +1,5 @@
 # SYNC INTERN'S INTERNSHIP PROGRAM
-Project on Machine Learning Internship 
+Projects on Machine Learning Internship 
 
 Task 1 - Create a ChatBot.
 
